@@ -1,0 +1,1 @@
+in this repository I try to fix some of leetcodes problemes and Push the solution in it.
